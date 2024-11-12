@@ -24,7 +24,7 @@ def caesar_decrypt(ciphertext, shift):
     return decrypted_text
 
 
-plaintext = "hello"
+plaintext = "This is plain text"
 shift = 3
 ciphertext = caesar_encrypt(plaintext, shift)
 print(f"Caesar Cipher Encryption: {ciphertext}")

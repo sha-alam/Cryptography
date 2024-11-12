@@ -40,6 +40,6 @@ plantext='hello'
 print('Brute Force Encryption for Caesar Cipher:')
 brute_force_encrypt(plantext)
 
-ciphertext = "ifmmp"
+ciphertext = "xubbe"
 print("\nBrute Force Decryption for Caesar Cipher:")
 brute_force_decrypt(ciphertext)
